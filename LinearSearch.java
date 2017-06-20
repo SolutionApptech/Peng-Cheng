@@ -1,9 +1,9 @@
-package com.PengLearningJava.Chapter7;
+package com.PengLearningJava;
 
 /**
  * Created by solutionapp tech on 6/18/2017.
  */
-//package chapter7;
+
 
 
 public class LinearSearch {
